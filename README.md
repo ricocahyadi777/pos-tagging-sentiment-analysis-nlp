@@ -9,6 +9,8 @@ imilarly, we should assign smaller or zero sentiment weights to determiner and p
 The data can be seen on [amazon_cells_labelled.csv](https://github.com/ricocahyadi777/pos-tagging-sentiment-analysis-nlp/blob/main/amazon_cells_labelled.csv). <br/>
 I forget where do i get the data from. 
 
+The code can be found in [sentiment_analysis.ipynb](https://github.com/ricocahyadi777/pos-tagging-sentiment-analysis-nlp/blob/main/sentiment_analysis.ipynb)
+
 ## Basic Naive Bayes
 ```python
 def make_to_list(dataframe):    # Convert dataframe into list
